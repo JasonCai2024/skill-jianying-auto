@@ -1,0 +1,14 @@
+.env
+.env.local
+data/credentials.json
+data/*.local.json
+.venv/
+.venv*/
+__pycache__/
+*.pyc
+input/
+output/
+logs/
+temp/
+scratch/
+*.log

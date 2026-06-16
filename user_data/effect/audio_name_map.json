@@ -1,0 +1,18 @@
+{
+  "audio_name_map": {
+    "woosh": {
+      "path": "user_data/effect/sound/woosh.mp3",
+      "duration": 0.433333
+    }
+  },
+  "animation_rules": {
+    "keyframe_property_types": [
+      "KFTypePositionX",
+      "KFTypePositionY",
+      "KFTypeScaleX",
+      "KFTypeScaleY",
+      "KFTypeRotation"
+    ],
+    "animation_types": ["in", "out", "loop"]
+  }
+}

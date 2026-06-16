@@ -1,0 +1,48 @@
+﻿{
+    "draft_parent_folder":  "D:/JianyingPro Drafts",
+    "canvas":  {
+                   "width":  1920,
+                   "height":  1080,
+                   "jianying_folder_path":  ""
+               },
+    "subtitle_style_sample_draft":  "D:/JianyingPro Drafts/sample",
+    "subtitle_style":  {
+
+                       },
+    "image_style":  {
+                        "transform_x":  0.0,
+                        "transform_y":  0.0,
+                        "scale_x":  1.0,
+                        "scale_y":  1.0
+                    },
+    "black_material":  {
+                           "path":  "user_data/materials/black_scene.png"
+                       },
+    "servicehub":  {
+                       "base_url":  "https://www.ccailab.top",
+                       "username":  "",
+                       "passtoken":  "",
+                       "asr_provider":  "aliyun",
+                       "asr_model":  "fun-asr",
+                       "llm_provider":  "aliyun",
+                       "llm_model":  "qwen-flash",
+                       "deduct_points":  true
+                   },
+    "default_template_id":  "template2",
+    "defaults":  {
+                     "parse_storyboard":  {
+                                              "output_json":  "output/storyboard_sequence.json",
+                                              "output_script":  "output/script_text.txt"
+                                          },
+                     "align":  {
+                                   "text_file":  "output/script_text.txt",
+                                   "output_json":  "output/aligned_asr.json",
+                                   "output_srt":  "output/aligned_asr.srt"
+                               },
+                     "compose":  {
+                                     "aligned_json":  "output/aligned_asr.json",
+                                     "storyboard_json":  "output/storyboard_sequence.json",
+                                     "save_params":  "output/draft_para_collect_from_assets.json"
+                                 }
+                 }
+}

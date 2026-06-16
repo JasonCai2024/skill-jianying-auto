@@ -1,0 +1,11 @@
+﻿{
+  "template_id": "template1",
+  "name": "基础模板（无图片缩放）",
+  "description": "使用默认图片缩放与位移参数",
+  "image_style": {
+    "transform_x": 0.0,
+    "transform_y": 0.0,
+    "scale_x": 1.0,
+    "scale_y": 1.0
+  }
+}

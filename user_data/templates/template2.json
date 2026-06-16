@@ -1,0 +1,35 @@
+﻿{
+  "template_id": "template2",
+  "name": "图片缩放模板（参考 sample-1）",
+  "description": "图片统一缩放为0.85，位移保持居中",
+  "image_style": {
+    "transform_x": 0.0,
+    "transform_y": 0.0,
+    "scale_x": 0.85,
+    "scale_y": 0.85
+  },
+  "extra_text_overlays": [
+    {
+      "text": "画面由AI辅助生成，文案内容原创",
+      "start": 0.0,
+      "duration": 6.0,
+      "font_title": "新青年体",
+      "font_size": 7.0,
+      "text_color": "#000000",
+      "border_color": "#FFFFFF",
+      "border_width": 40.0,
+      "transform_x_px": -1050,
+      "transform_y_px": -836,
+      "scale_x": 0.7,
+      "scale_y": 0.7,
+      "background_style": 1,
+      "background_color": "#FFFFFF",
+      "background_width": 0.0,
+      "background_height": 0.0,
+      "background_round_radius": 0.4,
+      "text_alpha": 1.0,
+      "global_alpha": 0.9,
+      "check_flag": 31
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "animation_map": [
+    {
+      "material_type": "video",
+      "category_id": "in",
+      "name": "放大",
+      "resource_id": "6798332733694153230",
+      "id": "624751",
+      "path_hash": "028a77e121c22a4dd130a46a0ed90714"
+    },
+    {
+      "material_type": "video",
+      "category_id": "out",
+      "name": "向右滑动",
+      "resource_id": "6798333350487527950",
+      "id": "624741",
+      "path_hash": "b768f38810fc11df947c6196a6d882ec"
+    },
+    {
+      "material_type": "sticker",
+      "category_id": "ruchang",
+      "name": "弹入",
+      "resource_id": "6887482184844710413",
+      "id": "1644313",
+      "path_hash": "0533e3aeb2cda562cdd8a86693815443"
+    },
+    {
+      "material_type": "sticker",
+      "category_id": "chuchang",
+      "name": "旋出",
+      "resource_id": "6763873732143354376",
+      "id": "1644604",
+      "path_hash": "ffc35db86b29aee7a0a4342ea5ed059f"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "default_template": "template1",
+  "templates": [
+    {
+      "id": "template1",
+      "file": "template1.json",
+      "desc": "基础模板（无图片缩放）"
+    },
+    {
+      "id": "template2",
+      "file": "template2.json",
+      "desc": "图片缩放模板（scale=0.85）"
+    }
+  ]
+}

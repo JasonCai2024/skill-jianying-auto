@@ -1,0 +1,7 @@
+# Core runtime
+numpy==1.26.4
+requests>=2.32.0
+
+# Existing utility deps
+lxml>=6.0.0
+beautifulsoup4>=4.14.0
