@@ -1,4 +1,4 @@
-﻿{
+{
   "template_id": "template2",
   "name": "图片缩放模板（参考 sample-1）",
   "description": "图片统一缩放为0.85，位移保持居中",
@@ -18,8 +18,8 @@
       "text_color": "#000000",
       "border_color": "#FFFFFF",
       "border_width": 40.0,
-      "transform_x_px": -1050,
-      "transform_y_px": -836,
+      "transform_x_px": 0,
+      "transform_y_px": 1000,
       "scale_x": 0.7,
       "scale_y": 0.7,
       "background_style": 1,

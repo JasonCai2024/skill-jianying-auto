@@ -45,6 +45,13 @@ skill-jianying-auto/
 
 ## 获取与安装
 
+克隆仓库：
+
+```powershell
+git clone https://github.com/JasonCai2024/skill-jianying-auto.git
+cd skill-jianying-auto
+```
+
 1. 安装 Python 依赖：
 
 ```powershell

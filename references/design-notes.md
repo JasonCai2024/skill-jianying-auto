@@ -1,4 +1,4 @@
-﻿# 自动化剪辑技能包设计文档
+# 自动化剪辑技能包设计文档
 
 - 项目名称：`skill-jianying-auto`
 - 文档版本：`v1.7`
@@ -118,8 +118,8 @@
 - 时间与位置：
 - `start=0.0`
 - `duration=6.0`
-- `transform_x_px=-1050`
-- `transform_y_px=-836`
+- `transform_x_px=0`
+- `transform_y_px=1000`
 - `scale_x=0.7`
 - `scale_y=0.7`
 - 字体与描边：
